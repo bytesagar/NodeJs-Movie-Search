@@ -9,13 +9,14 @@
 ![](./screenshots/desktop1.png)
 
 
-
-#Windows:&nbsp
-You can download git and NodeJs &nbsp
-git clone https://github.com/sagar608/NodeJs-Movie-Search.git&nbsp
-cd NodeJs-Movie-Search&nbsp
-npm install&nbsp
-npm start&nbsp
+```
+#Windows:
+* You can download git and NodeJs
+* git clone https://github.com/sagar608/NodeJs-Movie-Search.git
+* cd NodeJs-Movie-Search
+* npm install
+* npm start
+```
 ```
 
 ## Bult with
