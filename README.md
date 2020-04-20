@@ -10,7 +10,7 @@
 
 
 
-Windows:
+#Windows:
 You can download git and NodeJs
 git clone https://github.com/sagar608/NodeJs-Movie-Search.git
 cd NodeJs-Movie-Search
@@ -25,6 +25,7 @@ npm start
 * HTML - Markup Language
 * CSS & Bootstrap -  UI & Styling
 * NodeJs
+```
 
 
 
