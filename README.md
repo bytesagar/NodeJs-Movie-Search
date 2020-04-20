@@ -6,7 +6,7 @@
 ![](./screenshots/android.png)
 ![](./screenshots/desktop.png)
 
-![](./screenshots/desktop1.png)
+
 
 
 ```
