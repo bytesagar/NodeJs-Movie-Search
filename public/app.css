@@ -1,0 +1,85 @@
+img{
+    width: 300px;
+    height: 150px;
+}
+
+.container{
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    margin-top: 30px !important;
+    margin-bottom: 20px !important;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    text-align: center;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    padding-left: 0px !important;
+}
+
+.btn{
+    display: block;
+    width: 30% !important;
+    margin: 0 auto;
+    
+}
+
+#s-movie{
+    padding: 10px 30px;
+    width: 50%;
+    outline: none;
+}
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+input:focus{
+    outline: none;
+    border: 1px solid rgb(88, 247, 49);
+}
+
+input[type="submit"]{
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: rgb(57, 253, 39);
+    border: none;
+    color: rgb(255, 255, 255);
+
+}
+
+.error-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 50vh;
+    background-color: #fff;
+
+
+}
+
+.error-container h1{
+    font-size: 30px;
+}
+
+button.navbar-toggler{
+    border: none !important;
+    padding: 0;
+    outline: none;
+}
